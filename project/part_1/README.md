@@ -54,7 +54,6 @@ Here are some notes taken in preparation for the project
 ![waveform](../part_1/img/ir_waveform.png)
 
 ## Part 1 Completed Project Files
-Grade received: 76/76
 - [alu.v](alu.v)
 - [rf.v](rf.v)
 - [statreg.v](statreg.v)
