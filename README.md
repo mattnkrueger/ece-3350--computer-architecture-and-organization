@@ -10,6 +10,7 @@ The course follows the [Computer Organization and Embedded Systems (Sixth Editio
 <div align="left">
   <img src="tags/uiowa.svg" width="123" alt="Uiowa" />
   <img src="tags/handwritten.svg" width="171" alt="Handwritten" />
+  <img src="tags/cpp.svg" width="60" alt="C++" />
 </div>
 
 ---
