@@ -1,9 +1,18 @@
 # ECEE:3350 - Computer Architecture and Organization (Spring 2025)
 **Instructor:** Professor James Maxstead, University of Iowa
 
-## Course Information
-
+### Description:
 The course follows the [Computer Organization and Embedded Systems (Sixth Edition)](https://www.v2vclass.com/images/coursepdf/bsc-cssem1/bsc-cssem1/co/fy-cs.pdf) texbook. Additionally, the course covered practical components with basic Verilog HDL with coding projects.
+
+---
+
+### Project Tags
+<div align="left">
+  <img src="tags/uiowa.svg" width="123" alt="Uiowa" />
+  <img src="tags/handwritten.svg" width="171" alt="Handwritten" />
+</div>
+
+---
 
 ## Repository Structure
 
